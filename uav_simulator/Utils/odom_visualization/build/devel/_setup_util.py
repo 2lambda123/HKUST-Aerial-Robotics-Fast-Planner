@@ -33,8 +33,6 @@
 # POSSIBILITY OF SUCH DAMAGE.
 
 '''This file generates shell code for the setup.SHELL scripts to set environment variables'''
-
-from __future__ import print_function
 import argparse
 import copy
 import errno
